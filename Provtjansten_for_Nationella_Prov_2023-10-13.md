@@ -40,4 +40,5 @@ Skolverket har tagit beslutet att åtkomsten till plattformen ska bli federerad.
 
 ## EntityID registrerade i metadata
 
--   
+- https://skolverket.eduid.se/dnp/sp/
+- https://idpproxy.dev.eduid.se/sp

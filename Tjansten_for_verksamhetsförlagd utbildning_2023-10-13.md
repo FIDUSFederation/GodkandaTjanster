@@ -34,4 +34,5 @@ Syftet med anslutning till FIDUS är att göra inloggning och anslutning via sko
 
 ## EntityID registrerade i metadata
 
--   
+- https://vfu-test.su.se/Shibboleth.sso
+- https://vfusyd-test.su.se/Shibboleth.sso

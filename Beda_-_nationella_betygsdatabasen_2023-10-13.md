@@ -32,4 +32,5 @@ Att möjliggöra för samtliga skolenheter vid Sveriges skolhuvudmän att genomf
 
 ## EntityID registrerade i metadata
 
--   
+- https://betyg.test.uhr.se/beda-inrapportering
+- https://betyg.uhr.se/beda-inrapportering
