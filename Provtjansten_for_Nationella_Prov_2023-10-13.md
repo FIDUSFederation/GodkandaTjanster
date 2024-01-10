@@ -2,7 +2,7 @@
 
 ## Styrgruppens beslut
 
--   Styrgruppen fattade beslut om att godkänna tjänsten 2023-10-13
+Styrgruppen fattade beslut om att godkänna tjänsten 2023-10-13
 
 ## Tjänstens ägare
 
