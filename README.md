@@ -6,7 +6,7 @@ Tjänster som finns i till FIDUS anslutna federationer propageras inte automatis
 
 ## Godkända tjänster
 
--   Sunet Forum, beslutad 2021-04-10
--   Provtjänsten för Nationella Prov, beslutad 2023-10-13
 -   Beda – nationella betygsdatabasen, beslutad 2023-10-13
+-   Provtjänsten för Nationella Prov, beslutad 2023-10-13
+-   Sunet Forum, beslutad 2021-04-10
 -   Tjänsten för verksamhetsförlagd utbildning (VFU-portalen och VFU-portföljen), beslutad 2023-10-13
