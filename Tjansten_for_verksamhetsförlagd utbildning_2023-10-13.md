@@ -1,4 +1,4 @@
-# Provtjänsten för Nationella Prov
+# Tjänsten för verksamhetsförlagd utbildning (VFU-portalen och VFU-portföljen)
 
 ## Styrgruppens beslut
 
