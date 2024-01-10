@@ -18,7 +18,7 @@ Integrerad del av FIDUS.
 
 ## Publik information om tjänsten
 
--   • https://fidustest.skolverket.se
+-   https://fidustest.skolverket.se
 
 ## Publicerande federation
 
