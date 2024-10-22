@@ -9,7 +9,7 @@ Tjänster som finns i till FIDUS anslutna federationer propageras inte automatis
 -   [Beda - nationella betygsdatabasen](Beda_-_nationella_betygsdatabasen_2023-10-13.md), beslutad 2023-10-13
 -   [Fidustest, integrerad testtjänst i FIDUS](Fidustest.md)
 -   [Provtjänsten för Nationella Prov](Provtjansten_for_Nationella_Prov_2023-10-13.md), beslutad 2023-10-13
--   [Sunet Forum](Sunet_Forum_2021-04-10.md), beslutad 2021-04-10
+-   [Sunet Forum](Sunet_Forum_2021-04-10.md), beslutad 2021-04-10, avpublicerad från Fidus 2024-10-22
 -   [Teknikåttan](Teknikåttan_2024-09-27.md), beslutad 2024-09-27
 -   [Tjänsten för verksamhetsförlagd utbildning (VFU-portalen och VFU-portföljen)](Tjansten_for_verksamhetsförlagd%20utbildning_2023-10-13.md), beslutad 2023-10-13
 
