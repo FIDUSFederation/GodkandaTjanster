@@ -22,7 +22,7 @@ I syfte att underlätta för Sveriges alla högstadielärare att delta i Teknik�
 
 ## Publik information om tjänsten
 
--   
+-   https://teknikattan.se/
 
 ## Publicerande federation
 
@@ -31,4 +31,3 @@ I syfte att underlätta för Sveriges alla högstadielärare att delta i Teknik�
 ## EntityID registrerade i metadata
 
 -   https://teknikattan-idpproxy.sunet.se/sp
-
