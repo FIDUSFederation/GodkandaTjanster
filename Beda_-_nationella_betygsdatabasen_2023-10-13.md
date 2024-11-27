@@ -34,3 +34,4 @@ Att möjliggöra för samtliga skolenheter vid Sveriges skolhuvudmän att genomf
 
 - https://betyg.test.uhr.se/beda-inrapportering
 - https://betyg.uhr.se/beda-inrapportering
+- https://betyg.stage.uhr.se/beda-inrapportering

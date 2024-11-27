@@ -25,4 +25,4 @@ Ur ett FIDUS-perspektiv är detta den öppna samverkansplattformen där Skolverk
 - SWAMID
 
 ## EntityID registrerade i metadata
-- https://humhub-idp-proxy.sunet.se/sp
+- Avpublicerad från Fidus 2024-10-22
