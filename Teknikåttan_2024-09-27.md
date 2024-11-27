@@ -30,4 +30,5 @@ I syfte att underlätta för Sveriges alla högstadielärare att delta i Teknik�
 
 ## EntityID registrerade i metadata
 
--   
+-   https://teknikattan-idpproxy.sunet.se/sp
+
